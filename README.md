@@ -12,3 +12,4 @@ This repository contains my peronal, but free to use [Home Assistant Add-ons](ht
 ## Add-ons
 
 * [Traefik](traefik/README.md)
+* Nextcloud - *WIP*
