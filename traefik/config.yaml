@@ -1,5 +1,5 @@
 name: Traefik
-version: 4.1.3
+version: 4.1.4
 slug: traefik
 description: |
   Traefik is a modern HTTP reverse proxy and load balancer that makes deploying
@@ -13,7 +13,7 @@ arch:
 startup: system
 stage: stable
 boot: auto
-url: https://alxx.nl/home-assistant-addons/tree/master/traefik
+url: https://github.com/Haifirion/home-assistant-addons/edit/master/traefik
 ports:
   80/tcp: 80
   443/tcp: 443
