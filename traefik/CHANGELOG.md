@@ -1,5 +1,9 @@
 # Changelog
 
+##4.1.4.5
+
+* Missed one TCP entrypoint #ADDED
+
 ## 4.1.4
 
 * Added support for TeamSpeak TCP and UDP entrypoints
