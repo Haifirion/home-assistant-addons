@@ -14,8 +14,11 @@ entryPoints:
     address: ":443"
   tstcp:
     address: ":30033"
+  tstcp_a:
+    address: ":10011"
   tsudp:
     address: ":9987/udp"
+
 {{- if has $options "forwarded_headers_insecure" }}
     forwardedHeaders:
       insecure: {{ $options.forwarded_headers_insecure }}
