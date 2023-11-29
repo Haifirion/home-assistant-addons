@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.5
+
+* Added Metrics
+
 ## 4.1.4.5
 
 * Missed one TCP entrypoint #ADDED
