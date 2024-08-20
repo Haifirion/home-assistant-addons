@@ -61,15 +61,6 @@ certificatesResolvers:
   {{- end }}
 {{- end }}
 
-metrics:
-  prometheus:
-    buckets:
-      - 0.1
-      - 0.3
-      - 1.2
-      - 5
-    entryPoint: metrics
-
 providers:
   file:
     directory: "{{ $options.dynamic_configuration_path }}"
