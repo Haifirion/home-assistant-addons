@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.6
+
+* Removed Metrics & Added Nextcloud secure Entrypoint
+
 ## 4.1.5
 
 * Added Metrics
